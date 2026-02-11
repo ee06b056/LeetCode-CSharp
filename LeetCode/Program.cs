@@ -1,4 +1,6 @@
-﻿using System;
+﻿namespace LeetCode;
+
+using System;
 
 class Program
 {
